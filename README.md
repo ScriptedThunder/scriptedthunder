@@ -11,4 +11,4 @@ CSS,
 and PHP
 
 ## Currently Listening To:
-[![Spotify](https://scriptedthunder-spotify.vercel.app/api/spotify)](https://open.spotify.com/user/odo1981)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=odo1981&cover_image=true&theme=default)]
