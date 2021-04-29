@@ -11,4 +11,4 @@ CSS,
 and PHP
 
 ## Currently Listening To:
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=odo1981&cover_image=true&theme=default)]
+![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=odo1981&cover_image=true&theme=default)
