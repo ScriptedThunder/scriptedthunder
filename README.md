@@ -5,7 +5,7 @@ Just a developer who enjoys spamming the keyboard.
 ## Experience
 Javascript,
 Lua,
-Some Python
+Some Python,
 HTML,
 CSS,
 and PHP
