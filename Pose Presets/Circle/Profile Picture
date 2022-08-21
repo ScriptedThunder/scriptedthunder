@@ -1,0 +1,18 @@
+$.ajax({
+  method: "POST",
+  url: "https://avatar.roblox.com/v1/avatar/thumbnail-customization",
+  contentType: "application/json",
+  data: JSON.stringify({
+    "camera": {
+        // Ranges are inclusive.
+        "distanceScale": 0.5, // 0.5 to 4
+        "fieldOfViewDeg": 45, // 15 to 45
+        "xRotDeg": -8, // -20 to 20
+        "yRotDeg": 3 // -60 to 60
+    },
+    "emoteAssetId": 10147924028, // emote asset id
+    // these can both be 0 for no animation, but only 1 can be non-zero
+    "idleAnimationAssetId": 0, // idle animation asset id
+    "thumbnailType": 1 // 1 = Closeup (headshot), 2 = FullBody (bodyshot). Closeup and FullBody can have different configurations.
+  })
+});
