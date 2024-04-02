@@ -16,6 +16,15 @@ Just a developer who enjoys spamming the keyboard.
 </div>
 
 ###
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ScriptedThunder&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ScriptedThunder&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+<img src="https://raw.githubusercontent.com/ScriptedThunder/ScriptedThunder/output/snake.svg" alt="Snake animation" />
+
+###
 
 ## Currently Listening To:
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=odo1981&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
