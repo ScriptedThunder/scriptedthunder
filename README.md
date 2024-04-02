@@ -24,11 +24,8 @@ Just a developer who enjoys spamming the keyboard.
 ## Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ScriptedThunder&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
-## Currently Listening To:
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=odo1981&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
-
 ## Discord:
-[![Discord Presence](https://lanyard.cnrad.dev/api/143359375271133186)](https://discord.com/users/143359375271133186)
+![Discord Presence](https://lanyard-profile-readme.vercel.app/api/143359375271133186?borderRadius=30px&idleMessage=nothing...)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ScriptedThunder&icon=5&color=1)](https://visitcount.itsvg.in)
