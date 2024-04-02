@@ -1,8 +1,7 @@
+
 ## About Me
 Hello, I'm ScriptedThunder.
 Just a developer who enjoys spamming the keyboard.
-
-###
 
 ## Experience
 <div align="left">
@@ -15,10 +14,18 @@ Just a developer who enjoys spamming the keyboard.
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" height="40" alt="css3 logo"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ScriptedThunder&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
 
-###
+## Stats
+![](https://github-readme-stats.vercel.app/api?username=ScriptedThunder&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ScriptedThunder&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ScriptedThunder&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+## Trophies
+![](https://github-profile-trophy.vercel.app/?username=ScriptedThunder&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
 ## Currently Listening To:
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=odo1981&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+
+---
+[![](https://visitcount.itsvg.in/api?id=ScriptedThunder&icon=5&color=1)](https://visitcount.itsvg.in)
