@@ -24,8 +24,5 @@ Just a developer who enjoys spamming the keyboard.
 ## Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ScriptedThunder&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
-## Discord:
-![Discord Presence](https://lanyard-profile-readme.vercel.app/api/143359375271133186?borderRadius=30px&idleMessage=nothing...)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=ScriptedThunder&icon=5&color=1)](https://visitcount.itsvg.in)
