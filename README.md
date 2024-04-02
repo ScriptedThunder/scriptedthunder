@@ -27,5 +27,8 @@ Just a developer who enjoys spamming the keyboard.
 ## Currently Listening To:
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=odo1981&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
+## Discord:
+[![Discord Presence](https://lanyard.cnrad.dev/api/:id)](https://discord.com/users/143359375271133186)
+
 ---
 [![](https://visitcount.itsvg.in/api?id=ScriptedThunder&icon=5&color=1)](https://visitcount.itsvg.in)
