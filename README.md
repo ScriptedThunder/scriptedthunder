@@ -2,6 +2,13 @@
 Hello, I'm ScriptedThunder.
 Just a developer who enjoys spamming the keyboard.
 
+##
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ScriptedThunder.ScriptedThunder&"  />
+</div>
+
+###
+
 ## Experience
 <div align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="40" alt="javascript logo"  />
