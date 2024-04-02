@@ -2,11 +2,6 @@
 Hello, I'm ScriptedThunder.
 Just a developer who enjoys spamming the keyboard.
 
-##
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=ScriptedThunder.ScriptedThunder&"  />
-</div>
-
 ###
 
 ## Experience
@@ -23,7 +18,7 @@ Just a developer who enjoys spamming the keyboard.
 </div>
 
 ###
-<div align="center">
+<div align="Left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ScriptedThunder&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
 
