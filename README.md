@@ -21,9 +21,6 @@ Just a developer who enjoys spamming the keyboard.
 </div>
 
 ###
-<img src="https://raw.githubusercontent.com/ScriptedThunder/ScriptedThunder/output/snake.svg" alt="Snake animation" />
-
-###
 
 ## Currently Listening To:
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=odo1981&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
